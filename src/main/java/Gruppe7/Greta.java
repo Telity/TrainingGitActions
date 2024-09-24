@@ -1,8 +1,8 @@
 package Gruppe7;
 
 public class Greta {
-    public String printName(){
-            return "hello";
+    public String printName(String name){
+            return "hello" + name;
 
     }
 
